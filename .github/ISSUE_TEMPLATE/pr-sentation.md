@@ -5,9 +5,19 @@ about: Describe this issue template's purpose here.
 ---
 
 # Titel: 
-## Lernziele
-Die Präsentation soll folgende Inhalte vermitteln:
-* 1
-* 2
-*3 
-### Beschreibung des Praxismoduls
+## Inhalte
+### Theorie
+ * Punkt 1
+ * Punkt 2
+ * ...
+
+### Praxis
+ * Punkt 1
+ * Punkt 2
+ * ...
+
+#### Vorraussetzungen
+* zB. installierte Software
+
+#### Abgabe
+- Link in Github Issue zu Projekt (.zip) und Präsentation (.pdf/md)

@@ -16,7 +16,7 @@ about: Describe this issue template's purpose here.
  * Punkt 2
  * ...
 
-#### Vorraussetzungen
+#### Voraussetzungen
 * zB. installierte Software
 
 #### Abgabe
